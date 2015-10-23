@@ -82,5 +82,7 @@ int main()
 		}
 	}
 
+	cout << stack1.Size() << endl;
+
 	return 0;
 }
